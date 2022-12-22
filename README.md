@@ -1,16 +1,26 @@
-# nubank_clone
+# Nubank clone
+Um clone da interface do app da [Nubank](https://nubank.com.br) construido com
+[Flutter](https://flutter.dev), apenas com o intuito do aprendizado da ferramenta.
 
-A new Flutter project.
+## Screenshots :camera:
+<p float="left">
+  <img src="screenshots/home.gif" width="250"/>
+</p>
 
-## Getting Started
+## Executar
+1. Clonar o repositório:
+```bash
+  git clone https://github.com/matheus-vicente/nubank-clone.git
+```
+2. Baixar as dependências:
+```bash
+  flutter pub get
+```
+3. Executar projeto:
+```bash
+  flutter run
+```
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Projeto ainda em **desenvolvimento**.
